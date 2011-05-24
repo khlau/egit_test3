@@ -1,4 +1,3 @@
-
 public class EgitTesting3 {
 
 	/**
@@ -6,6 +5,7 @@ public class EgitTesting3 {
 	 */
 	public static void main(String[] args) {
 		System.out.println("Hello EGit");
+                System.out.println("test update");
 
 	}
 
